@@ -1,11 +1,14 @@
 ### Hi there 👋
 
+## 自己紹介
+橋本 和奏
+大阪電気通信大学 情報通信工学部 情報工学科所属
+
+
+|Twitter|[@_xwas0ux](https://twitter.com/_xwas0ux)|
 <!--
 **xwasoux/xwasoux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-大阪電気通信大学 情報通信工学部 情報工学科所属
-
-|Twitter|[@_xwas0ux](https://twitter.com/_xwas0ux)|
 
 
 Here are some ideas to get you started:
