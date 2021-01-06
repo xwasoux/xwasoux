@@ -4,8 +4,9 @@
 橋本 和奏
 大阪電気通信大学 情報通信工学部 情報工学科所属
 
-
-|Twitter|[@_xwas0ux](https://twitter.com/_xwas0ux)|
+## Social Media
+| Twitter | [@_xwas0ux](https://twitter.com/_xwas0ux) |
+| LinkedIn | [WAKANA Hashimoto](https://www.linkedin.com/in/wakana-hashimoto-805a0a197/) |
 <!--
 **xwasoux/xwasoux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
