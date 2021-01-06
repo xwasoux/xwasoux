@@ -3,7 +3,7 @@
 ## 自己紹介
 橋本 和奏
 産業技術短期大学を卒業し，2019年 大阪電気通信大学に編入学．
-現在は自然言語処理研究室でプレゼミ生として勉強する傍，[自由工房](https://jiyukobo-oecu.jp/)でモノづくり活動にも勤しむ．中でも びわ湖クルーレスソーラーボート大会ではチームで3位に入賞した，https://www.osakac.ac.jp/news/2019/1880
+現在は自然言語処理研究室でプレゼミ生として勉強する傍，[自由工房](https://jiyukobo-oecu.jp/)でモノづくり活動にも勤しむ．中でも びわ湖クルーレスソーラーボート大会では[チームで3位に入賞した，](https://www.osakac.ac.jp/news/2019/1880)
 
 
 ## Social Media
@@ -12,6 +12,9 @@
 | ---- | ---- |
 | Twitter | [@_xwas0ux](https://twitter.com/_xwas0ux) |
 | LinkedIn | [WAKANA Hashimoto](https://www.linkedin.com/in/wakana-hashimoto-805a0a197/) |
+| 主な使用言語 | C, Python |  
+| 使用しているエディタ | VS Code, Vim |
+| 好きなマイコン | Raspberry Pi, Arduino, M5stack |
 
 
 <!--
