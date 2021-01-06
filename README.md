@@ -3,6 +3,11 @@
 <!--
 **xwasoux/xwasoux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+大阪電気通信大学 情報通信工学部 情報工学科所属
+
+|Twitter|[@_xwas0ux](https://twitter.com/_xwas0ux)|
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
