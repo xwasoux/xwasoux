@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=xwasoux&show_icons=true&count_private=true&theme=shades-of-purple" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xwasoux&theme=shades-of-purple" />
+</a>
+
 ## 自己紹介
 
 [産業技術短期大学](https://www.sangitan.ac.jp/subject/info/)を卒業し，2019年 [大阪電気通信大学](https://www.osakac.ac.jp/faculty/information/ei/)に編入学．
