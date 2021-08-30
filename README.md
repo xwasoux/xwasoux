@@ -12,11 +12,11 @@ Hi there 👋
 
 2019年，<a href="https://www.sangitan.ac.jp/subject/info/">産業技術短期大学 情報処理工学部 情報処理工学科</a>を卒業し，同年4月 <a href="https://www.osakac.ac.jp/faculty/information/ei/">大阪電気通信大学 情報通信工学部 情報工学科</a> に編入学．
 
-編入学後は大学が支援するものづくり活動の場である[自由工房](https://jiyukobo-oecu.jp/)に所属し，ロボコンなどに向けて活動する．
+編入学後は大学が支援するものづくり活動の場である<a href="https://jiyukobo-oecu.jp/">自由工房</a>に所属し，ロボコンなどに向けて活動する．
 2021年には鈴鹿サーキットで開催された<a href="https://www.suzukacircuit.jp/ene1-challenge/">FIA Electric & New Energy Championship　ソーラーカーレース鈴鹿2021</a>にてチームのソフトウェア担当として参加．
 
 # 所属
-+ <a href="https://jiyukobo-oecu.jp/?page_id=6846#ev" target="_blank">自由工房 EV班 Team Ku-On</a>
++ <a href="https://twitter.com/TeamKuOn1" target="_blank">自由工房 EV班 Team Ku-On</a>
 + 竹内研究室
 
 # 研究内容
@@ -34,6 +34,7 @@ Hi there 👋
 + Processing
 
 # Media
++ <a href="https://jiyukobo-oecu.jp/?page_id=6846#ev">自由工房メンバー | 大阪電気通信大学 自由工房</a>
 + <a href="https://www.osakac.ac.jp/news/2019/1880">自由工房の学生が「第23回びわ湖クルーレス・ソーラーボート大会」で入賞</a>
 + <a href="https://www.osakac.ac.jp/news/2021/2350">自由工房Solar Team Ku-Onの学生チームがソーラーカーレース鈴鹿2021に出場しました</a>
 + <a href="https://www.afpbb.com/articles/-/3360505">大阪電気通信大学 自由工房Solar Team Ku-Onの学生チームがソーラーカーレース鈴鹿2021に出場 -- 初出場の学生チーム・初設計の車体・初運転のドライバーで見事完走！</a>
