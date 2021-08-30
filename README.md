@@ -16,7 +16,7 @@ Hi there 👋
 2021年には鈴鹿サーキットで開催された<a href="https://www.suzukacircuit.jp/ene1-challenge/">FIA Electric & New Energy Championship　ソーラーカーレース鈴鹿2021</a>にてチームのソフトウェア担当として参加．
 
 # 所属
-+ <a href="https://jiyukobo-oecu.jp/?page_id=6846#ev">自由工房 EV班 Team Ku-On</a>
++ <a href="https://jiyukobo-oecu.jp/?page_id=6846#ev" "target"="_blank" rel="nooopener noreferrer">自由工房 EV班 Team Ku-On</a>
 + 竹内研究室
 
 # 研究内容
