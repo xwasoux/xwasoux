@@ -24,7 +24,8 @@ Hi there 👋
 + ソフトウェア工学
 + プログラミング教育
 
-
+# 学会発表
++ Wakana Hashimoto, Yo Amano, Yutaka Takesue, Kazuhiro Takeuchi: Extraction of Editing Processes for Modifying a Program to Another Purpose based on Representation Learning, Proc. 10th International Congress on Advanced Applied Informatics (IIAI-AAI 2021), pp. 911-912,July,13,(Video Presentation / Online Q&A) , (2021).
 
 # 使用言語
 + Python
