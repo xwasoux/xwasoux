@@ -30,6 +30,7 @@ Hi there 👋
 # 使用言語
 + Python
 + C
++ Golang
 + Javascript
 + Arduino
 + Processing
