@@ -36,9 +36,13 @@ Hi there 👋
 
 # Media
 + <a href="https://jiyukobo-oecu.jp/?page_id=6846#ev">自由工房メンバー | 大阪電気通信大学 自由工房</a>
-+ <a href="https://www.osakac.ac.jp/news/2019/1880">自由工房の学生が「第23回びわ湖クルーレス・ソーラーボート大会」で入賞</a>
+
+**2021**
 + <a href="https://www.osakac.ac.jp/news/2021/2350">自由工房Solar Team Ku-Onの学生チームがソーラーカーレース鈴鹿2021に出場しました</a>
 + <a href="https://www.afpbb.com/articles/-/3360505">大阪電気通信大学 自由工房Solar Team Ku-Onの学生チームがソーラーカーレース鈴鹿2021に出場 -- 初出場の学生チーム・初設計の車体・初運転のドライバーで見事完走！</a>
+
+**2019**
++ <a href="https://www.osakac.ac.jp/news/2019/1880">自由工房の学生が「第23回びわ湖クルーレス・ソーラーボート大会」で入賞</a>
 
 # Contact
 + Twitter : [@_xwas0ux](https://twitter.com/_xwas0ux)
