@@ -29,11 +29,10 @@ Hi there 👋
 
 # 使用言語
 + Python
-+ C
++ C / C++
 + Golang
++ Java
 + Javascript
-+ Arduino
-+ Processing
 
 # Media
 + <a href="https://jiyukobo-oecu.jp/?page_id=6846#ev">自由工房メンバー | 大阪電気通信大学 自由工房</a>
