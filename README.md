@@ -6,7 +6,7 @@
 Hi there 👋
 
 # About me
-+ ハンドルネーム：<a href="https://twitter.com/_xwas0ux">ワソウ</a> こと，本名：橋本和奏（はしもと わかな）
++ 本名：橋本和奏（はしもと わかな）
 + 居住地：大阪市内
 + 生年月日：1999/01/25
 
@@ -45,7 +45,7 @@ Hi there 👋
 + <a href="https://www.osakac.ac.jp/news/2019/1880">自由工房の学生が「第23回びわ湖クルーレス・ソーラーボート大会」で入賞</a>
 
 # Contact
-+ Twitter : [@_xwas0ux](https://twitter.com/_xwas0ux)
++ Facebook : [Wakana Hashimoto](https://www.facebook.com/wakana.hashimoto.188)
 + LinkedIn : [WAKANA Hashimoto](https://www.linkedin.com/in/wakana-hashimoto-805a0a197/) 
 
 
